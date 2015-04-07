@@ -18,6 +18,6 @@ require("./add-active-class-to-links")()
 require("./autoselect-inputs")()
 require("./package-access")()
 require("./buy-enterprise-license")()
+require("./github2")()
 
-window.github = require("./github")()
 window.star = require("./star")()

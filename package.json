@@ -81,6 +81,7 @@
     "numbat-collector": "~1.0.1",
     "numbat-emitter": "~1.1.0",
     "number-grouper": "0.0.1",
+    "octokat": "^0.4.9",
     "parse-link-header": "^0.2.0",
     "pkgs": "^1.1.0",
     "pretty-hrtime": "^1.0.0",
